@@ -1,3 +1,3 @@
 # Pong Game
-Pong Game in HTML CSS ZND JAVASCRI[PT
-Must try
+Pong Game in HTML CSS and JAVASCRIPT
+Must Try
